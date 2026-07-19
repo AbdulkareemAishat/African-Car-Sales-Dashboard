@@ -18,4 +18,5 @@ An interactive Excel Dashboard that analyzes African car sales trends, revenue, 
 - Sales by Country
 - 
   ## Dashboard Preview
-![Uploading African Car Sales Dashboard Preview.png…]()
+<img width="402" height="207" alt="African Car Sales Dashboard Preview" src="https://github.com/user-attachments/assets/d2a5aab6-fcea-48d4-b0d9-02445d43a05d" />
+
